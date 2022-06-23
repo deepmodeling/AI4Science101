@@ -10,11 +10,10 @@ As we announce this AI for science blog series, we release two main documents wi
 
 ## Acknowledgement
 The project is a part of the DeepModeling community, an open-source community that aims to define the future of scientific computing together. 
-This work is primarily led by Yuanqi Du (Cornell), Yingze Wang (UCB), Yanze Wang (PKU), Yibo Wang (DP) and contributors Jiayue Wang (DP), Arian Jamasb (Cambridge), Jiameng Huang (PKU), Jihao Long (Princeton), Guiyu Cao (PKU), Zhenfeng Deng (PKU), Xi Chen (DP), Siyuan Zhou (BFSU), Yinkai Wang (Tufts). We also like to express our gratitude to Weinan E (Princeton \& PKU), Linfeng Zhang (DP), Ping Tuo (DP), Zheng Cheng (AISI), Han Wen (DP), Dongdong Wang (DP), Xinming Tu (UW), Nilay Shah (UCLA), Hannes Stark (MIT), Chaitanya Joshi (Cambridge), Ryan-Rhys Griffiths (Cambridge), Sang Truong (Stanford), Junhan Chang (PKU), Chenbing Wang (PKU), Ziming Liu (MIT), Weiliang Luo (PKU), Zhen Wang (DP), Yucheng Zhang (UTokyo), Ferry Hooft (UvA) for providing expertise, feedback and support.
+This work is primarily led by Yuanqi Du (Cornell), Yingze Wang (UCB), Yanze Wang (PKU), Yibo Wang (DP) and contributors Jiayue Wang (DP), Jiameng Huang (PKU), Arian Jamasb (Cambridge), Jihao Long (Princeton), Guiyu Cao (PKU), Zhenfeng Deng (PKU), Xi Chen (DP), Siyuan Zhou (BFSU), Yinkai Wang (Tufts). We also like to express our gratitude to Weinan E (Princeton \& PKU), Linfeng Zhang (DP), Ping Tuo (DP), Zheng Cheng (AISI), Han Wen (DP), Dongdong Wang (DP), Xinming Tu (UW), Nilay Shah (UCLA), Hannes Stark (MIT), Chaitanya Joshi (Cambridge), Ryan-Rhys Griffiths (Cambridge), Sang Truong (Stanford), Junhan Chang (PKU), Chenbing Wang (PKU), Ziming Liu (MIT), Weiliang Luo (PKU), Zhen Wang (DP), Yucheng Zhang (UTokyo), Ferry Hooft (UvA) for providing expertise, feedback and support.
 
 ## Feedback/comment or Join us
-Please reach out to us at ai4s101@deepmodeling.com if you have any feedback or comments.
-
+Please reach out to us at ai4science101@deepmodeling.com if you have any feedback or comments.
 As this is a community effort, we welcome anyone interested to join us. Any kind of volunteer work is welcomed, including writing tutorials, drawing illustrations, etc. Do not hesitate to let us know! 
 
 ## Contribution Guidelines
