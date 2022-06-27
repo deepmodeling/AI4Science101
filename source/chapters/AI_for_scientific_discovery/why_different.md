@@ -1,5 +1,5 @@
-## 2.3 Why is AI for Science different?
-### 2.3.1 Data is Important
+## Why is AI for Science different?
+### Data is Important
 
 Undoubtedly, AI methods rely on datasets with both high-quality and high-quantity to achieve excellent performance in solving problems, which has been demonstrated by ImageNet
 [10]

@@ -1,4 +1,4 @@
-## 2.7 A Roadmap of Basic Scientific Knowledge
+## A Roadmap of Basic Scientific Knowledge
 
 **Classical Mechanics**
 - Kibble, Tom, and Frank H. Berkshire. Classical mechanics. world scientific publishing company, 2004.Classical Mechanics

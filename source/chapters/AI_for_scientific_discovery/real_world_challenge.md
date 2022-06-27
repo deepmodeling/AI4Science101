@@ -1,5 +1,5 @@
-## 2.4 Real-world Challenges in AI for Science
-### 2.4.1 Next Steps in Protein Structure Prediction
+## Real-world Challenges in AI for Science
+### Next Steps in Protein Structure Prediction
 Represented by AlphaFold2[1], a variety of AI-based protein structure prediction models
 [13,14]
 successfully solve the protein structure prediction problem, but it is only the first step towards understanding protein structures and functions. There are still many remaining challenges to be solved:
@@ -17,7 +17,7 @@ Protein-ligand interactions and the induced-fit models are key to understanding 
 **Protein Conformation Ensembles**
 Most of the recent successful models are based on multiple sequence alignment (MSA), which can be viewed as an augmented version of "homologous modeling". The scientific logic behind this is that proteins follow rules of evolution, so more or less, any protein found naturally is subject to have some structural similarities with those proteins in other organisms which some have been studied before. However, there are still a variety of proteins that are de novo-designed (manually designed) or lacking MSA, current models fail to provide reliable prediction results. Thus one promising direction of AI-based protein structure prediction may be the development of MSA-free models.
 
-### 2.4.2 Quantum Mechanics
+### Quantum Mechanics
 One of the central goals in quantum mechanics is to find accurate solutions (wave functions and energies) to Schrödinger equations on real systems, which is hindered by many-body problems because the dimensionality of the equation is $3N$, where $N$ is the number of electrons (and a real system can easily have hundreds of electrons, where the many-body Schrödinger equations can not be solved exactly. To compromise, researchers have come up with many approximation methods, such as DFT (density functional theory), to make the computational cost acceptable by sacrificing some accuracy. This work have reached great achievements in many areas such as material science, but in cases where the DFT results are not accurate enough, researchers have to rely on more accurate but more time-consuming methods (CCSD(T), with a computation complexity of $O\left(N^7\right)$). Recent work, such as DeePKS[15]
 and DM21[16]
 have been proposed to tackle this issue with AI models, but are still far from perfect. One particular challenge is how to represent an anti-symmetric function under permutation in a neural-network manner (wave functions of electrons are of this property). 
@@ -25,7 +25,7 @@ have been proposed to tackle this issue with AI models, but are still far from p
 <center><img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/figures-AI%20for%20Scientific%20Discover/coarse-grained.png width="60%" height="20%" /></center>
 <center>Figure 6: Illustration of coarse-grained models</center>
 
-### 2.4.3 Molecular Dynamics
+### Molecular Dynamics
 Molecular dynamics (MD) is a computer simulation method for analyzing the physical movements of atoms and molecules. The atoms and molecules are allowed to interact for a fixed period of time, providing a view of the dynamic "evolution" of the system. The trajectory can be considered as a sample under the Boltzmann distribution of a given system and temperature. Thus, many thermodynamic properties such as density and free energy can be calculated by MD.
 
 **General neural-network-based force field** 
@@ -42,7 +42,7 @@ Enhanced sampling assists to overcome free energies barriers in a molecular dyna
 , and NN-based CV selections[20,21]
 . The main challenges lie in better models with generalizability and more effective workflows to take training data generation into consideration. [22]
 
-### 2.4.4 Partial differential equations
+### Partial differential equations
 High dimensional partial differential equations (PDEs) arise in many scientific problems. Notable examples include high dimensional nonlinear Black-Scholes equations in finance, many electronic Schrödinger equations in quantum mechanics, and high dimensional Hamilton-Jacobi-Bellman equations in control theory. However, traditional numerical algorithms like finite difference or finite element methods suffer from the curse of dimensionality and are unable to deal with PDEs beyond 10 dimensions. The practical success of deep-learning-based PDE solvers such as physics-informed neural networks and deep BSDE method shows the ability of the deep neural networks to efficiently approximate the solutions of high dimensional PDEs. Hence, once we can reformulate the PDE by a variational problem, deep learning techniques can be easily applied to the variational problem and the original PDE can be solved. Successful examples in this direction include the deep Ritz method[23] 
 the deep BSDE method[1]
 , and Physics-informed neural networks[24]
@@ -53,7 +53,7 @@ the deep BSDE method[1]
 
 - **Finite element method:** A class of numerical algorithms to solve the differential equations. It converts the differential equations to a variational problem, uses a finite-dimensional linear space to approximate the domain of the variational problem, and solves the variational problem over the finite-dimensional linear space. 
 
-### 2.4.5 Control theory
+### Control theory
 Control algorithms are widely used in engineering and industry, which aim to govern the application of system inputs to drive the dynamic system to satisfying specific conditions. Since the time of Bellman [25]
 , a long-lasting problem in control theory is to solve the high dimensional closed-loop control problems, which aims to find the policy function: the input as a function of the state. Indeed, the terminology "curse of dimensionality" was originally coined by Bellman in order to highlight these difficulties. The practical success of deep learning shows that deep neural networks can approximate high dimensional functions and hence raise the hope to solve high dimensional closed-loop control problems. Although this field is still immature and faces many challenges such as stability and robustness of policy function, pioneering works [24,26]
 show the potential of this field. Another related field is reinforcement learning. Roughly speaking, control algorithms and reinforcement learning problems solve the same problems. However, in contrast, to control algorithms, which make heavy use of the underlying models, reinforcement learning algorithms make minimum use of the model. Comparison and combination of control algorithms and reinforcement learning algorithms are interesting topics and helpful if one wants to deal with complex practical problems. 
@@ -64,7 +64,7 @@ show the potential of this field. Another related field is reinforcement learnin
     
 - **Reinforcement learning:** Reinforcement learning concerns how an agent takes actions to maximize the long-term reward when faced with an unknown environment. One feature of the reinforcement learning algorithm is that it does not require the exact form of the underlying model. 
 
-### 2.4.6 Fluid Mechanics
+### Fluid Mechanics
 Fluid mechanics studies the systems with fluid (liquids, gases, and plasmas) at rest and in motion
 [27,28,29]. Many scientific and engineering disciplines get involved with fluid mechanics (as shown in Figure 
 ***\ref{fig:fluid_sketch}***
