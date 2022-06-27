@@ -1,4 +1,4 @@
-# Manifesto
+## Manifesto
 
 In recent years, AI has almost been everywhere, from our daily life to
 life-critical systems. AI for science is a new terminology representing

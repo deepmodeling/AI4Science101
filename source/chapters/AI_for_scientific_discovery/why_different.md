@@ -1,0 +1,11 @@
+## 2.3 Why is AI for Science different?
+### 2.3.1 Data is Important
+
+Undoubtedly, AI methods rely on datasets with both high-quality and high-quantity to achieve excellent performance in solving problems, which has been demonstrated by ImageNet
+[10]
+, Cifar-10[11]
+, etc. This is also very true for scientific problems, examplified by RCSB Protein Data Bank (PDB)[12]
+. This database, containing approximate 200,000 data entries and maintained by researchers all over the world for over 40 years, is one of the best database for experimentally resolved biomolecular structures. Deep learning methods would never reach such a success without efforts from maintainers of PDB. In particular, scientific problems usually involve real and challenging scenarios for many AI-interested topics, e.g., out-of-distribution generalization, low-data regime learning, etc. And it is often the case that in many topics, no high-quality dataset is available to generate effective deep learning models. Therefore, it is encouraged that AI researchers to pay more attention to data collection and structuralization, during which domain expertise and joint efforts are required.
+% Some examples include learning from structures studied in several years ago to predict structures of researchers' interest today for out-of-distribution generalization, learning from highly expensive quantum property data to predict property for new data (low-data regime), etc.
+### 2.3.2 Problem Formulation
+Many scientific discovery problems are much more complex than simple classification or regression tasks. For AI researchers, scientific problems have to be decomposed and well-formulated to an extent that inputs, outputs, and objective functions (often needs to be differentiable) can be clearly defined. For example, "drug design" is a huge pipeline which consists of a sequence of steps and is obviously not a well-formulated problem itself. Instead, we can decompose this problem into different pieces that are AI-solvable: molecular property prediction for virtual screening molecular databases, molecular generation for proposing better drug candidates, etc. Problems failed to be compliant with this standard are often referred to as "dirty" ones, and are unlikely to be addressed solely with AI methods.
