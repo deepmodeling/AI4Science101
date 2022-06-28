@@ -60,7 +60,7 @@ Cofactors are necessary non-peptide components required for enzymes to function 
 
 #### Michaelis-Menten equation
 
-Michaelis–Menten kinetics describe the typical kinetic behaviour of enzymes. The name was given after German biochemist Leonor Michaelis and Canadian physician Maud Menten. The Michaelis–Menten kinetics model describes the rate of enzymatic reactions $v$in the form of Michaelis–Menten equation showing bellow: 
+Michaelis–Menten kinetics describe the typical kinetic behaviour of enzymes. The name was given after German biochemist Leonor Michaelis and Canadian physician Maud Menten. The Michaelis–Menten kinetics model describes the rate of enzymatic reactions $v$ in the form of Michaelis–Menten equation showing bellow: 
 $$v=\frac{d[P]}{d(t)}={V_{max}}\frac{[S]}{{K_{M}}+[S]}$$
 Here, enzyme reaction rate $v$, the rate of forming product $[P]$, is related with substrate concentration $[S]$ $V_{max}$ describes the maximum reaction rate achieved by the studied system. It would be reached when the substrate concentration is saturated under a given enzyme concentration. The Michaelis constant $K_{M}$ is numerically equal to the substrate concentration where half $V_{max}$ is reached. In most of the enzyme catalyzing single-substrate reactions, their kinetics behaviours are assumed to fit Michaelis-Menten equation, regardless of further assumptions.
 
