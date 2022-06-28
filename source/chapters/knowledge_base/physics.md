@@ -64,7 +64,7 @@ Given that the reaction coordinates are well defined, methods such as umbrella s
 
 #### Slow Degrees of Freedom
 
-In the process of dynamic simulation, some degrees of freedom change rapidly with time (such as bond length, bond angle, etc., usually on the order of fs or ps). And some degrees of freedom change slowly with time (such as the dihedral angle, usually on the order of ns, $\mu$s, or even ms).
+In the process of dynamic simulation, some degrees of freedom change rapidly with time (such as bond length, bond angle, etc., usually on the order of fs or ps). And some degrees of freedom change slowly with time (such as the dihedral angle, usually on the order of ns, $\mu$ s , or even ms).
 
 #### Enhanced Sampling
 
@@ -81,8 +81,9 @@ Generally, an operator acts on the state space of a physical system, making the 
 #### Schrödinger Equation
 
 In quantum mechanics, the Schrödinger equation is a partial differential equation that describes the time evolution of the quantum state of a physical system and is the fundamental equation of quantum mechanics. The Schrödinger equation can be divided into two types: the “time-dependent Schrödinger equation” 
-$$\label{eq:schrodinger_time_dep} \hat{H}\Psi=i\hbar\frac{\partial}{\partial t}\Psi$$ 
-and the “time-independent Schrödinger equation” (also known as the steady-state Schrödinger equation) $$\label{eq:schrodinger_time_indep} \hat{H}\Psi=E\Psi$$
+$$\hat{H}\Psi=i\hbar\frac{\partial}{\partial t}\Psi$$ 
+and the “time-independent Schrödinger equation” (also known as the steady-state Schrödinger equation) 
+$$\hat{H}\Psi=E\Psi$$
 where $\hat{H}$ is Hamiltonian operator, and Ψ is the wave function of the system. 
 $$\hat{H}=-\frac{\hbar^2}{2m}\nabla^2+V$$
 The time-dependent Schrödinger equation describes how the wave function of a quantum system evolves over time, while the time-independent Schrödinger equation describes the physical properties of a stationary quantum system. 
