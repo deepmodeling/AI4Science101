@@ -15,11 +15,11 @@ First Edition
    :maxdepth: 2
    :caption: Contents:
 
-   wholePicture/announcement/announcement.md
-   wholePicture/science/index
-   wholePicture/AI/index
-   wholePicture/MD/index
-   wholePicture/knowledgebase/index
+   chapters/announcement/announcement.md
+   chapters/AI_for_scientific_discovery/index
+   chapters/scientific_discovery_in_the_era_of_AI/index
+   chapters/MD/index
+   chapters/knowledge_base/index
 
 
 
