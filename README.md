@@ -4,10 +4,10 @@ With the rapid development of AI, people have started to apply AI methods to alm
 
 In this first post, we would like to motivate people from both AI and Scientific fields about this emerging, fast-growing and impactful field, AI for Science, from both the views of AI and Scientific researchers: scientific discovery in the era of AI and AI for scientific discovery. We also prepare our first lecture-style tutorial focusing on molecular dynamics, one of the most fundamental tools in computational chemistry, with the first release of our knowledge base covering basic concepts from physics, chemistry, biology, and pharmacy.
 
-* Scientific Discovery in the era of AI - AI for Science from the view of AI
-* AI for Scientific Discovery - AI for Science from the view of Science
-* Molecular Dynamics - Lecture-style tutorial
-* Knowledge Base - Basic concepts
+* [Scientific Discovery in the era of AI](https://ai4science101.deepmodeling.com/en/latest/chapters/scientific_discovery_in_the_era_of_AI/index.html) - AI for Science from the view of AI
+* [AI for Scientific Discovery](https://ai4science101.deepmodeling.com/en/latest/chapters/AI_for_scientific_discovery/index.html) - AI for Science from the view of Science
+* [Molecular Dynamics](https://ai4science101.deepmodeling.com/en/latest/chapters/MD/index.html) - Lecture-style tutorial
+* [Knowledge Base](https://ai4science101.deepmodeling.com/en/latest/chapters/knowledge_base/index.html) - Basic concepts
 
 ## Acknowledgement
 The project is a part of the DeepModeling community, an open-source community that aims to define the future of scientific computing together. 
