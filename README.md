@@ -18,3 +18,4 @@ Please reach out to us at [ai4science101@deepmodeling.com](mailto:ai4science101@
 
 ## Contribution Guidelines
 We are looking for contributors/experts for specific areas related to AI for Science. The expected contributions include a three-level write-up, a one-paragraph introduction and learning material in section 2 or 3 (depending on the topic in AI or Science), common terminologies and short explanations in section 5, and a specialized chapter similar to section 4. For each specialized chapter, we expect to include (1) target audience and motivations, (2) brief review of literature/history, (3) current advances and future promises, (4) takeaways, and (5) a running sample/demo (optional).
+
