@@ -1,6 +1,8 @@
 ## What does AI bring to the scientific Community?
 
+<br>
 ![image](https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/Protain_S_P.png)
+<br>
 
 #### **Traditional Discovery Process in Science (a day of a scientist)**
 
