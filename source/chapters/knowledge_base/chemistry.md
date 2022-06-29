@@ -86,14 +86,11 @@ Signal transduction is responsible for intracellular communication via series of
 
 The lock-and-key model is a theory proposed by E. Fischer in 1890 to explain the specific binding between enzymes and substrates (or between ligands and receptors). The model believes that the structures of enzymes and substrates at their binding sites should be strictly matched and highly complementary, just like the structural complementarity and matching of a lock and its original key. The disadvantage of this model is that the model treats the structure of the enzyme and the substrate as rigid structures, which is inconsistent with the fact that the conformation of the enzyme and the substrate changes during the catalytic reaction.
 
-![Schematic of the lock and key model](https://dp-public.oss-cn-beijing.aliyuncs.com/community/knowledge_base/lock_key_model.png)
-
 #### Induced Fit Model
 
 The Induced-Fit Model is a model proposed by Koshland in 1958 to describe the enzyme-substrate (ligand-receptor) binding interaction. This model believes that in the process of binding the enzyme to the substrate, the substrate can induce a certain change in the structure of the enzyme, and finally form an active conformation that can bind to the substrate.
 
-![Schematic illustration of induced-fit
-model](./induced_fit_model.png)
+![Schematic of the lock and key model](https://dp-public.oss-cn-beijing.aliyuncs.com/community/knowledge_base/lock_key_model.png)
 
 #### Molecular Docking
 
