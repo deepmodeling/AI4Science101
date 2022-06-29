@@ -68,7 +68,7 @@ Protein structure refers to the spatial structure of a protein biomolecule, whic
 
   - **Primary structure**: the linear amino acid sequence that makes up the polypeptide chain of a protein.
 
-  - **Secondary structure**: a stable structure formed by hydrogen bonds between C=O and N-H groups between different amino acids, mainly $\(\alpha\)$-helix and β-sheet.
+  - **Secondary structure**: a stable structure formed by hydrogen bonds between C=O and N-H groups between different amino acids, mainly $\alpha$-helix and β-sheet.
 
   - **Tertiary structure**: the three-dimensional structure of a protein molecule is formed by the arrangement of multiple secondary structural elements in three-dimensional space.
 
@@ -106,11 +106,28 @@ A reversible reaction is a chemical reaction that can proceed in both the forwar
 #### Chemical Equilibrium
 
 Chemical Equilibrium refers to a state in which the forward and reverse reaction rates of a chemical reaction are equal in a reversible reaction with certain macroscopic conditions, and the concentrations of the reactants and the components of the products do not change. Take the following reaction as an example: 
-$$\mathrm{aA+bB\rightleftharpoons cC}$$
-When the equilibrium is reached, the concentrations of $\mathrm{A,B,C}$ are respectively $\mathrm{\[A\]}$,$\mathrm{\[B\]}$,$\mathrm{\[C\]}$, then the equilibrium constant K can be defined: 
-$$K=\frac{[\mathrm{C}]^c}{[\mathrm{A}]^a\mathrm{[B]}^b}$$
+
+<center>
+  \begin{aligned}
+\mathrm{aA+bB\rightleftharpoons cC}
+  \end{aligned}
+  </center>
+  
+When the equilibrium is reached, the concentrations of $\mathrm{A,B,C}$ are respectively $\mathrm{\[A\]}$,$\mathrm{\[B\]}$,$\mathrm{\[C\]}$, then the equilibrium constant K can be defined:
+
+<center>
+  \begin{aligned}
+K&=\frac{[\mathrm{C}]^c}{[\mathrm{A}]^a\mathrm{[B]}^b} \\
+  \end{aligned}
+  </center>
+  
 Given the reaction conditions, the equilibrium constant for a reaction with a fixed stoichiometric ratio is the same, and is related to the free energy change of the reaction as follows: 
-$$\Delta G=-RT\ln K$$
+
+<center>
+  \begin{aligned}
+\Delta G=-RT\ln K \\
+  \end{aligned}
+  </center>
 
 #### van der Waals force
 
@@ -123,7 +140,13 @@ van der Waals (vdW) force refers to the non-directional, unsaturated, weak inter
   - **Dispersion** (usually named London dispersion interactions after Fritz London), which is the attractive interaction between any pair of molecules, including non-polar atoms, arising from the interactions of instantaneous multipoles.
 
 In molecular simulations, van der Waals forces are usually described in terms of the Lanner-Jones potential function, which has the following form: 
-$$V(r)=\frac{C^6}{r^6}-\frac{C^{12}}{r^{12}}$$
+
+<center>
+  \begin{aligned}
+V(r)=\frac{C^6}{r^6}-\frac{C^{12}}{r^{12}} \\
+  \end{aligned}
+  </center>
+
 Where $r$ is the distance between two atoms, $C$ is a parameter, usually obtained by fitting physical quantities such as density and the enthalpy of evaporation.
 
 #### Hydrophobic interaction
