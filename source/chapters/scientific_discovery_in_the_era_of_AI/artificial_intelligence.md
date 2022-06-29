@@ -2,7 +2,11 @@
 
 Many words describe areas closely related to AI, sometimes they could be called AI generally, but we illustrate their relationships below. (examples shown in each level are disjoint examples from the overlapping subjects):
 
-![image](https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/Flowchart.jpg)
+<center> <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/Flowchart.jpg# pic_center width="30%" height="30%"/>  </center>
+
+<br>
+<center>Figure 2: Relationship of words referring to AI</center>
+<br>
 
   - **Artificial Intelligence** is a generic word that represents intelligence demonstrated by machines which include a broad set of methods from traditional reasoning and planning methods to modern machine learning approaches.
 

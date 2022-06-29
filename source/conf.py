@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'AI4Science101'
-copyright = '2022, Yibo Wang'
-author = 'Yibo Wang'
+copyright = '2022, DeepModeling Community'
+author = 'DeepModeling Community'
 
 
 # -- General configuration ---------------------------------------------------

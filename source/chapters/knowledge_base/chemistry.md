@@ -68,7 +68,7 @@ Protein structure refers to the spatial structure of a protein biomolecule, whic
 
   - **Primary structure**: the linear amino acid sequence that makes up the polypeptide chain of a protein.
 
-  - **Secondary structure**: a stable structure formed by hydrogen bonds between C=O and N-H groups between different amino acids, mainly $\(\alpha\)$-helix and β-sheet.
+  - **Secondary structure**: a stable structure formed by hydrogen bonds between C=O and N-H groups between different amino acids, mainly $\alpha$-helix and β-sheet.
 
   - **Tertiary structure**: the three-dimensional structure of a protein molecule is formed by the arrangement of multiple secondary structural elements in three-dimensional space.
 
@@ -86,14 +86,11 @@ Signal transduction is responsible for intracellular communication via series of
 
 The lock-and-key model is a theory proposed by E. Fischer in 1890 to explain the specific binding between enzymes and substrates (or between ligands and receptors). The model believes that the structures of enzymes and substrates at their binding sites should be strictly matched and highly complementary, just like the structural complementarity and matching of a lock and its original key. The disadvantage of this model is that the model treats the structure of the enzyme and the substrate as rigid structures, which is inconsistent with the fact that the conformation of the enzyme and the substrate changes during the catalytic reaction.
 
-![Schematic of the lock and key model](https://dp-public.oss-cn-beijing.aliyuncs.com/community/knowledge_base/lock_key_model.png)
-
 #### Induced Fit Model
 
 The Induced-Fit Model is a model proposed by Koshland in 1958 to describe the enzyme-substrate (ligand-receptor) binding interaction. This model believes that in the process of binding the enzyme to the substrate, the substrate can induce a certain change in the structure of the enzyme, and finally form an active conformation that can bind to the substrate.
 
-![Schematic illustration of induced-fit
-model](./induced_fit_model.png)
+![Schematic of the lock and key model](https://dp-public.oss-cn-beijing.aliyuncs.com/community/knowledge_base/lock_key_model.png)
 
 #### Molecular Docking
 
@@ -106,11 +103,28 @@ A reversible reaction is a chemical reaction that can proceed in both the forwar
 #### Chemical Equilibrium
 
 Chemical Equilibrium refers to a state in which the forward and reverse reaction rates of a chemical reaction are equal in a reversible reaction with certain macroscopic conditions, and the concentrations of the reactants and the components of the products do not change. Take the following reaction as an example: 
-$$\mathrm{aA+bB\rightleftharpoons cC}$$
-When the equilibrium is reached, the concentrations of $\mathrm{A,B,C}$ are respectively $\mathrm{\[A\]}$,$\mathrm{\[B\]}$,$\mathrm{\[C\]}$, then the equilibrium constant K can be defined: 
-$$K=\frac{[\mathrm{C}]^c}{[\mathrm{A}]^a\mathrm{[B]}^b}$$
+
+<center>
+  \begin{aligned}
+\mathrm{aA+bB\rightleftharpoons cC}
+  \end{aligned}
+  </center>
+  
+When the equilibrium is reached, the concentrations of $\mathrm{A,B,C}$ are respectively [$A$],[$B$],[$C$], then the equilibrium constant K can be defined:
+
+<center>
+  \begin{aligned}
+K&=\frac{[\mathrm{C}]^c}{[\mathrm{A}]^a\mathrm{[B]}^b} \\
+  \end{aligned}
+  </center>
+  
 Given the reaction conditions, the equilibrium constant for a reaction with a fixed stoichiometric ratio is the same, and is related to the free energy change of the reaction as follows: 
-$$\Delta G=-RT\ln K$$
+
+<center>
+  \begin{aligned}
+\Delta G=-RT\ln K \\
+  \end{aligned}
+  </center>
 
 #### van der Waals force
 
@@ -123,7 +137,13 @@ van der Waals (vdW) force refers to the non-directional, unsaturated, weak inter
   - **Dispersion** (usually named London dispersion interactions after Fritz London), which is the attractive interaction between any pair of molecules, including non-polar atoms, arising from the interactions of instantaneous multipoles.
 
 In molecular simulations, van der Waals forces are usually described in terms of the Lanner-Jones potential function, which has the following form: 
-$$V(r)=\frac{C^6}{r^6}-\frac{C^{12}}{r^{12}}$$
+
+<center>
+  \begin{aligned}
+V(r)=\frac{C^6}{r^6}-\frac{C^{12}}{r^{12}} \\
+  \end{aligned}
+  </center>
+
 Where $r$ is the distance between two atoms, $C$ is a parameter, usually obtained by fitting physical quantities such as density and the enthalpy of evaporation.
 
 #### Hydrophobic interaction

@@ -8,11 +8,11 @@ Scientific Discovery in the era of AI
    :maxdepth: 2
    :caption: Contents:
 
-   announcement.md
-   news_about_AI.md
+   manifesto.md
+   news_AI.md
    artificial_intelligence.md
    AI_bring.md
    mindsets_for_AI.md
    how_ai_work.md
    AI_roadmap.md
-   reference.md
+   references.md

@@ -12,5 +12,5 @@ AI for Scientific Discovery
    opportunities.md
    mind_steps.md
    roadmap.md
-   reference.md
+   references.md
 
