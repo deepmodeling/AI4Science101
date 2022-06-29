@@ -113,7 +113,7 @@ Chemical Equilibrium refers to a state in which the forward and reverse reaction
   \end{aligned}
   </center>
   
-When the equilibrium is reached, the concentrations of $\mathrm{A,B,C}$ are respectively $\mathrm{\[A\]}$,$\mathrm{\[B\]}$,$\mathrm{\[C\]}$, then the equilibrium constant K can be defined:
+When the equilibrium is reached, the concentrations of $\mathrm{A,B,C}$ are respectively [$A$],[$B$],[$C$], then the equilibrium constant K can be defined:
 
 <center>
   \begin{aligned}
