@@ -47,7 +47,13 @@ Unlike systems in vacuum, proteins generally exist in solvents. We therefore nee
     However, simulating a small system will be seriously affected by the interface and cannot reflect the properties of the bulk phase.
     
     To solve this problem, we often use **periodic boundary conditions**. We confine the system of interest in a box and assume the properties of the actual system can be approximated by an virtual infinite system of repeating side-by-side lattices. If the molecule passes through the box boundary, it will re-enter the box from the opposite boundary, forming a periodic space.
-![image](https://dp-public.oss-cn-beijing.aliyuncs.com/community/molecular_dynamics/periddic_system.png)
+
+
+<center> <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/molecular_dynamics/periddic_system.jpg# pic_center width="30%" height="30%"/>  </center>
+
+<br>
+<center>Figure 1: Periodic boundary condition</center>
+<br>
 
 2.  **Preparation for simulation**
     
