@@ -108,9 +108,21 @@ Ready? Let’s simulate\!
 
 (Please be aware that units are omitted for simplicity)
 
-1.  Calculate the force on the hydrogen atoms from the initial positions: $$F_x=k(x-x_0)=0.1\times(1-0.5)=0.05$$
+1.  Calculate the force on the hydrogen atoms from the initial positions: 
 
-2.  Calculate the accelerations: $$a_x = \frac{F}{m}=0.05$$
+<center>
+\begin{aligned} 
+F_x&=k(x-x_0)=0.1\times(1-0.5)=0.05 \\
+\end{aligned}
+</center>
+
+2.  Calculate the accelerations: 
+
+<center>
+\begin{aligned}
+a_x &= \frac{F}{m}=0.05 \\
+  \end{aligned}
+  </center>
 
 3.  Update velocities: 
     $$ \Delta v_x=a\times \Delta t=0.05\*2=0.1$$
