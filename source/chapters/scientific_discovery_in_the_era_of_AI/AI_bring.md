@@ -4,7 +4,7 @@
 ![image](https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/Protain_S_P.png)
 
 
-#### **Traditional Discovery Process in Science (a day of a scientist)**
+#### Traditional Discovery Process in Science (a day of a scientist)
 
   - Goal - Drug design (AI can help in different phases of drug design)
 
@@ -31,11 +31,11 @@ ADMET             | - Experiments                                               
 
 <span id="tab:addlabel" label="tab:addlabel">\[Table: Examples of AI methods in assisting the drug discovery process\]</span>
 
-#### **Even decades ago, AI was widely used in the scientific community**
+#### Even decades ago, AI was widely used in the scientific community
 
   - Example: principal component analysis/PCA, linear regression, Kalman Filter, clustering algorithms, etc.
 
-#### **Data analysis empowered by modern AI**
+#### Data analysis empowered by modern AI
 
   - **Why has AI become so popular recently? (What changed the game?)**
     
