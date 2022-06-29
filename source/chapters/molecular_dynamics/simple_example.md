@@ -62,7 +62,7 @@ In real MD simulations, almost all inter-atomic and inter-molecular forces are a
 
 <center>
   \begin{aligned}
-U &=\sum_{\text {bonds }} \frac{1}{2} k_{b}\left(r-r_{0}\right)^{2}+\sum_{\text {angles }} \frac{1}{2} k_{a}\left(\theta-\theta_{0}\right)^{2}+\sum_{\text {torsions }} \frac{V_{n}}{2}[1+\cos (n \phi-\delta)]\+ \\
+U &=\sum_{\text {bonds }} \frac{1}{2} k_{b}\left(r-r_{0}\right)^{2}+\sum_{\text {angles }} \frac{1}{2} k_{a}\left(\theta-\theta_{0}\right)^{2}+\sum_{\text {torsions }} \frac{V_{n}}{2}[1+\cos (n \phi-\delta)] + \\
   \end{aligned}
   </center>
   
