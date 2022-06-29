@@ -7,10 +7,13 @@ Here we consider a simple example of a molecular dynamics simulation for a hydro
 Let’s go over some basic knowledge before simulations:
 
   - Molecules have an associated energy, which can be divided to potential energy (denoted by $V$) and kinetic energy (denoted by $T$). Potential energy is related to the coordinates of the atoms in molecules, while kinetic energy is related to the velocity (or momentum) of the atoms. 
+
+<center>
 $ \begin{aligned}
                                            E &= T + V  \\
 \end{aligned} $
-
+</center>
+  
 $ \begin{aligned}
 E &= \frac{1}{2} m v^2+V(\vec{q})  \text{  or  }  E = \frac{p^2}{2m} + V(\vec{q}) \\
 \end{aligned} $
