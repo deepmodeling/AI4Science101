@@ -15,4 +15,4 @@ Scientific Discovery in the era of AI
    mindsets_for_AI.md
    how_ai_work.md
    AI_roadmap.md
-   reference.md
+   references.md

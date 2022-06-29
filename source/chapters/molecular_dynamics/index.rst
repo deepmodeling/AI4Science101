@@ -13,5 +13,5 @@ This tutorial aims to equip you with the knowledge about molecular dynamics and 
    advanced_example.md
    enhanced_sampling.md
    AI_in_MD.md
-   reference.md
+   references.md
 
