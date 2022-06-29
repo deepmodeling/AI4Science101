@@ -8,7 +8,7 @@ Scientific Discovery in the era of AI
    :maxdepth: 2
    :caption: Contents:
 
-   announcement.md
+   manifesto.md
    news_about_AI.md
    artificial_intelligence.md
    AI_bring.md

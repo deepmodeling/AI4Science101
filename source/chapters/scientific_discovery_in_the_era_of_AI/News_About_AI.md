@@ -10,3 +10,4 @@
   ![image](https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/astronaut_basketball.png)
 
   - [DALL·E 2](https://openai.com/dall-e-2/) (2022) [4] is one of the largest AI systems that can create realistic images and art from a description in human-readable language.
+  
