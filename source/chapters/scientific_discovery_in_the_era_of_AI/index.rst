@@ -9,7 +9,7 @@ Scientific Discovery in the era of AI
    :caption: Contents:
 
    manifesto.md
-   news_about_AI.md
+   news_AI.md
    artificial_intelligence.md
    AI_bring.md
    mindsets_for_AI.md
