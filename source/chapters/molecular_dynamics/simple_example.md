@@ -125,8 +125,18 @@ a_x &= \frac{F}{m}=0.05 \\
   </center>
 
 3.  Update velocities: 
-    $$ \Delta v_x=a\times \Delta t=0.05\*2=0.1$$
-    $$ \Delta x = v_x \times \Delta t=0.1\*2=0.2$$
+
+<center>
+  \begin{aligned}
+\Delta v_x=a\times \Delta t=0.05\*2=0.1 \\
+\end{aligned}
+  </center>
+  
+  <center>
+  \begin{aligned}
+  \Delta x = v_x \times \Delta t=0.1\*2=0.2 \\
+  \end{aligned}
+  </center>
 
 4.  Update the coordinates and velocities through the calculation above to obtain new coordinates:
 
