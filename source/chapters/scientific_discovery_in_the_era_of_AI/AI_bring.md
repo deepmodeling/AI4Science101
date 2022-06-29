@@ -1,5 +1,10 @@
 ## What does AI bring to the scientific Community?
 
+<center> <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/AI4Science101/20220629-180726.jpg# pic_center width="80%" height="80%"/>  </center>
+
+<br>
+<center>Figure 3: Scientific discovery process</center>
+<br>
 
 #### Traditional Discovery Process in Science (a day of a scientist)
 
