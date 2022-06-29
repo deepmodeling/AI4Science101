@@ -52,7 +52,7 @@ Unlike systems in vacuum, proteins generally exist in solvents. We therefore nee
 <center> <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/molecular_dynamics/periddic_system.jpg# pic_center width="30%" height="30%"/>  </center>
 
 <br>
-<center>Figure 1: Periodic boundary condition</center>
+<center>Figure 1: Periodic system</center>
 <br>
 
 2.  **Preparation for simulation**

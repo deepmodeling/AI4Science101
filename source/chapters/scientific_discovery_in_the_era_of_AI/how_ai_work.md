@@ -1,7 +1,7 @@
 ## How does AI work? 
 
 
-<center> <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/AI_work.jpg# pic_center width="30%" height="30%"/>  </center>
+<center> <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/AI_work.jpg# pic_center width="90%" height="90%"/>  </center>
 
 <br>
 <center>Figure 4: AI pipeline</center>
@@ -57,7 +57,7 @@
         
           - More to read: Common Loss functions in machine learning [5]
     
-      - **Optimizer** is the algorithm used to minimize the objective/loss function and update the parameters of the machine learning model. More to read[6]
+      - **Optimizer** is the algorithm used to minimize the objective/loss function and update the parameters of the machine learning model. More to read [6]
         
           - Common optimizers include SGD, Adam, RMSProp, etc.
     
@@ -67,7 +67,7 @@
     
       - Evaluation Metrics measure the performance of the model.
 
-<center> <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/Protain_S_P.png# pic_center width="30%" height="30%"/>  </center>
+<center> <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/Protain_S_P.png# pic_center width="90%" height="90%"/>  </center>
 
 <br>
 <center>Figure 5: How AI predicts protein structures by AlphaFold2</center>
