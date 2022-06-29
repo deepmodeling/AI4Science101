@@ -18,6 +18,7 @@ MD is a computational method, a chemical experiment performed on computers. Let'
 
 
 <center> <span id="tab:addlabel" label="tab:addlabel">Table 1: Molecular Dynamics Procedure</span> </center>
+<br>
 
 ### Why do we run MD?
 
