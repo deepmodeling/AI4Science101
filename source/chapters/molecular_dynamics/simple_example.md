@@ -8,7 +8,7 @@ Let’s go over some basic knowledge before simulations:
 
   - Molecules have an associated energy, which can be divided to potential energy (denoted by $V$) and kinetic energy (denoted by $T$). Potential energy is related to the coordinates of the atoms in molecules, while kinetic energy is related to the velocity (or momentum) of the atoms. 
 $ \begin{aligned}
-E &= T + V \\
+<center> E &= T + V </center> \\
 \end{aligned} $
 
 $ \begin{aligned}
