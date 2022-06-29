@@ -1,5 +1,12 @@
 ## How does AI work? 
 
+
+<center> <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/AI_work.jpg# pic_center width="30%" height="30%"/>  </center>
+
+<br>
+<center>Figure 4: AI pipeline</center>
+<br>
+
 #### Typical pipeline
 
   - **Problem Formulation** is an essential step to formulate a problem in a “machine learning language”
@@ -60,7 +67,11 @@
     
       - Evaluation Metrics measure the performance of the model.
 
-![image](https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/Protain_S_P.png)
+<center> <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/Protain_S_P.png# pic_center width="30%" height="30%"/>  </center>
+
+<br>
+<center>Figure 5: How AI predicts protein structures by AlphaFold2</center>
+<br>
 
 #### Real-world Example (Protein Structure Prediction - Alphafold2)
 

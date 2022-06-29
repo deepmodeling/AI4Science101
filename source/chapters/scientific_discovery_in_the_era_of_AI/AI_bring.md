@@ -25,8 +25,8 @@ Lead Optimization | - MD-based free energy calculation with empirical force fiel
 Drug Synthesize   | - Error-prone experiments to find optimal synthesis route and reaction conditions | - Retro-synthesis analysis by AI models <br>- AI predicted reaction outcomes<br>- Automated wet-Lab experiment                 
 ADMET             | - Experiments                                                                     | - AI-based prediction models                                                
 
-
 <center><span id="tab:addlabel" label="tab:addlabel">Table 1: Examples of AI methods in assisting the drug discovery process</span></center>
+<br>
 
 #### Even decades ago, AI was widely used in the scientific community
 

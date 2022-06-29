@@ -6,8 +6,12 @@
 
   - [AlphaFold2](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology) [3] provides a solution to a 50-year-old   grand challenge in biology, determining protein structure given its sequence.
 
+<center> <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/astronaut_basketball.png# pic_center width="30%" height="30%"/>  </center>
+
+<br>
+<center>Figure 1: DALL·E 2 synthesized image from text description</center>
+<br>
  
-  ![image](https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/astronaut_basketball.png)
 
   - [DALL·E 2](https://openai.com/dall-e-2/) (2022) [4] is one of the largest AI systems that can create realistic images and art from a description in human-readable language.
   

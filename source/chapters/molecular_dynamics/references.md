@@ -1,4 +1,4 @@
-## Reference
+## References
  
 [1] Romelia salomon ferrer, David Case, and Ross Walker. An overview of the amber biomolecular simulation package. Wiley Interdisciplinary Reviews: Computational Molecular Science, 3, 03 2013.
 
