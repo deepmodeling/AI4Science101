@@ -72,8 +72,7 @@ show the potential of this field. Another related field is reinforcement learnin
 
 ### Fluid Mechanics
 Fluid mechanics studies the systems with fluid (liquids, gases, and plasmas) at rest and in motion
-[27,28,29]. Many scientific and engineering disciplines get involved with fluid mechanics (as shown in Figure 
-***\ref{fig:fluid_sketch}***
+[27,28,29]. Many scientific and engineering disciplines get involved with fluid mechanics (as shown in Figure above
 ), including astrophysics, oceanography, meteorology, aerospace engineering, chip industry, and physics-based animation. Overall, the fluid mechanics can be roughly divided into inviscid flows vs. viscous flows, laminar flows vs. turbulence, incompressible flows vs. compressible flows, continuum flows vs. rarefied flows, single-phase flows vs. multiphase flows, Newtonian flows vs. non-Newtonian flows, etc.  
 
 Mathematical analysis, experimental studies, and numerical simulations are three major approaches to exploring fluid mechanics. Fundamentally, a fluid system is assumed to be governed by mathematical equations in the conservation of mass, momentum, and energy. In different physical modeling scales, the governing equations of fluid are in different forms
