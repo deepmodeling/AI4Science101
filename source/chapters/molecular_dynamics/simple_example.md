@@ -90,7 +90,7 @@ These interactions include:
 
 ### Preparation for simulation
 
-Now, we have modeled a hydrogen molecule. For simplicity, let the force constant of the hydrogen molecule be $\(0.1 kJ/\mathring A^2\)$. Then let the equilibrium bond length be $0.5\mathring A$, and the mass of the hydrogen atom is assumed to be \(1\) (just for demonstration).
+Now, we have modeled a hydrogen molecule. For simplicity, let the force constant of the hydrogen molecule be $0.1 kJ/\mathring A^2$. Then let the equilibrium bond length be $0.5\mathring A$, and the mass of the hydrogen atom is assumed to be \(1\) (just for demonstration).
 
   - To start the simulation, we also need the initial conditions (initial conformation and initial velocity). Also for simplicity, we assume that the coordinates of the two atoms are [0.7, 0, 0], [0, 0, 0] (Unit: angstrom), and the velocities are [-0.1, 0, 0], [0.1, 0 , 0] (Unit: angstrom/fs)
     
