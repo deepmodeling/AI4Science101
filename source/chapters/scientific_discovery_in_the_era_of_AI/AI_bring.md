@@ -29,7 +29,7 @@ Drug Synthesize   | - Error-prone experiments to find optimal synthesis route an
 ADMET             | - Experiments                                                                     | - AI-based prediction models                                                
 
 
-<span id="tab:addlabel" label="tab:addlabel">Table: Examples of AI methods in assisting the drug discovery process</span>
+<center><span id="tab:addlabel" label="tab:addlabel">Table 1: Examples of AI methods in assisting the drug discovery process</span></center>
 
 #### Even decades ago, AI was widely used in the scientific community
 

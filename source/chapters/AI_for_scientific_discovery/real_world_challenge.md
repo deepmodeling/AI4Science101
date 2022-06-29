@@ -5,7 +5,9 @@ Represented by AlphaFold2[1], a variety of AI-based protein structure prediction
 successfully solve the protein structure prediction problem, but it is only the first step towards understanding protein structures and functions. There are still many remaining challenges to be solved:
 
 <center><img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/figures-AI%20for%20Scientific%20Discover/protein-ligand.png width="40%" height="40%" /></center>
+<br>
 <center>Figure 5: An illustration of protein-ligand binding</center>
+<br>
 
 **Protein Multimers** 
 Current predictive models of protein structure can only provide reliable results for monomers (single peptide chain). But in reality, peptide chains can interact with each other and form complexes (multimers). In many scenarios, only by doing so can the proteins perform their biological functions correctly. In structural biology, such behavior is defined as quarternary protein structure.
@@ -23,7 +25,9 @@ and DM21[16]
 have been proposed to tackle this issue with AI models, but are still far from perfect. One particular challenge is how to represent an anti-symmetric function under permutation in a neural-network manner (wave functions of electrons are of this property). 
 
 <center><img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/figures-AI%20for%20Scientific%20Discover/coarse-grained.png width="60%" height="20%" /></center>
+<br>
 <center>Figure 6: Illustration of coarse-grained models</center>
+<br>
 
 ### Molecular Dynamics
 Molecular dynamics (MD) is a computer simulation method for analyzing the physical movements of atoms and molecules. The atoms and molecules are allowed to interact for a fixed period of time, providing a view of the dynamic "evolution" of the system. The trajectory can be considered as a sample under the Boltzmann distribution of a given system and temperature. Thus, many thermodynamic properties such as density and free energy can be calculated by MD.
@@ -60,8 +64,10 @@ show the potential of this field. Another related field is reinforcement learnin
 
 <center><img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/figures-AI%20for%20Scientific%20Discover/20220623-162001.png width="40%" height="20%" />
 <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/figures-AI%20for%20Scientific%20Discover/fluid_space_vehicle.png width="40%" height="20%" /></center>
+<br>
 <center>Figure 7: Magnitude of vorticity in compressible turbulent mixing layer (left), and hypersonic reentry vehicle in rarefied regime (right).</center>
-    
+<br>    
+
 - **Reinforcement learning:** Reinforcement learning concerns how an agent takes actions to maximize the long-term reward when faced with an unknown environment. One feature of the reinforcement learning algorithm is that it does not require the exact form of the underlying model. 
 
 ### Fluid Mechanics
