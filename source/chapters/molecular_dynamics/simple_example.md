@@ -128,13 +128,13 @@ a_x &= \frac{F}{m}=0.05 \\
 
 <center>
   \begin{aligned}
-\Delta v_x=a\times \Delta t=0.05\*2=0.1 \\
+\Delta v_x=a\times \Delta t=0.05 * 2=0.1 \\
 \end{aligned}
   </center>
   
   <center>
   \begin{aligned}
-  \Delta x = v_x \times \Delta t=0.1\*2=0.2 \\
+  \Delta x = v_x \times \Delta t=0.1 * 2=0.2 \\
   \end{aligned}
   </center>
 
