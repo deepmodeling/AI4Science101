@@ -1,6 +1,6 @@
 ## How does AI work? 
 
-#### **Typical pipeline**
+#### Typical pipeline
 
   - **Problem Formulation** is an essential step to formulate a problem in a “machine learning language”
     
@@ -62,7 +62,7 @@
 
 ![image](https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/Protain_S_P.png)
 
-#### **Real-world Example (Protein Structure Prediction - Alphafold2)**
+#### Real-world Example (Protein Structure Prediction - Alphafold2)
 
   - Problem Formulation
     
