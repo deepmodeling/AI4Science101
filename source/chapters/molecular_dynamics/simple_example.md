@@ -60,8 +60,12 @@ Note that such simplification can significantly reduce the accuracy of MD simula
 
 In real MD simulations, almost all inter-atomic and inter-molecular forces are approximated by an analytical expression of classical mechanics. These **empirical parameters are obtained by fitting experimental data or data from quantum calculations}(for example, gradient descent optimization**. Usually, the format of force fields looks like a combination of terms like:
 
-$$U =\sum_{\text {bonds }} \frac{1}{2} k_{b}\left(r-r_{0}\right)^{2}+\sum_{\text {angles }} \frac{1}{2} k_{a}\left(\theta-\theta_{0}\right)^{2}+\sum_{\text {torsions }} \frac{V_{n}}{2}[1+\cos (n \phi-\delta)]$$
-$$\+\sum_{\text {improper }} V_{i m p}+\sum_{\mathrm{LJ}} 4 \epsilon_{i j}\left(\frac{\sigma_{i j}^{12}}{r_{i j}^{12}}-\frac{\sigma_{i j}^{6}}{r_{i j}^{6}}\right)+\sum_{\text {elec }} \frac{q_{i} q_{j}}{r_{i j}}$$
+<center>
+  \begin{aligned}
+U &=\sum_{\text {bonds }} \frac{1}{2} k_{b}\left(r-r_{0}\right)^{2}+\sum_{\text {angles }} \frac{1}{2} k_{a}\left(\theta-\theta_{0}\right)^{2}+\sum_{\text {torsions }} \frac{V_{n}}{2}[1+\cos (n \phi-\delta)]\+\sum_{\text {improper }} V_{i m p}+\sum_{\mathrm{LJ}} 4 \epsilon_{i j}\left(\frac{\sigma_{i j}^{12}}{r_{i j}^{12}}-\frac{\sigma_{i j}^{6}}{r_{i j}^{6}}\right)+\sum_{\text {elec }} \frac{q_{i} q_{j}}{r_{i j}} \\
+  \end{aligned}
+  </center>
+  
 These interactions include:
 
   - Short-range interactions:
