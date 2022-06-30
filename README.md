@@ -6,7 +6,7 @@ In this first post, we would like to motivate people from both AI and Scientific
 
 * [Scientific Discovery in the era of AI](https://ai4science101.deepmodeling.com/en/latest/chapters/scientific_discovery_in_the_era_of_AI/index.html) - AI for Science from the view of AI
 * [AI for Scientific Discovery](https://ai4science101.deepmodeling.com/en/latest/chapters/AI_for_scientific_discovery/index.html) - AI for Science from the view of Science
-* [Molecular Dynamics](https://ai4science101.deepmodeling.com/en/latest/chapters/MD/index.html) - Lecture-style tutorial
+* [Molecular Dynamics](https://ai4science101.deepmodeling.com/en/latest/chapters/molecular_dynamics/index.html) - Lecture-style tutorial
 * [Knowledge Base](https://ai4science101.deepmodeling.com/en/latest/chapters/knowledge_base/index.html) - Basic concepts
 
 ## Acknowledgement
