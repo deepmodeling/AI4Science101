@@ -71,4 +71,4 @@ It is worth noting that you must switch to the devel branch before submitting th
 
 ![image](https://dp-public.oss-cn-beijing.aliyuncs.com/community/pictures/12.PNG)
 
-In addition, due to the problem of markdown format, some formulas of documents on GitHub may appear garbled. Please refer to the content on the project website. Our project [website](ai4science101.deepmodeling.com)
+In addition, due to the problem of markdown format, some formulas of documents on GitHub may appear garbled. Please refer to the content on the project [website](ai4science101.deepmodeling.com)
