@@ -29,7 +29,7 @@ Our email address is [ai4science101@deepmodeling.com](mailto:ai4science101@deepm
 
 - Slack group
 
-In addition to our reading documents, you can also join the AI4Science101 Slack channel[https://aiforscience.slack.com/join/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ#/shared-invite/email](https://aiforscience.slack.com/join/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ#/shared-invite/email) to introduce yourself, drop comments/feedback, discuss related material, network with peers, and contribute new material.
+In addition to our reading documents, you can also join the AI4Science101 [Slack channel](https://aiforscience.slack.com/join/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ#/shared-invite/email) to introduce yourself, drop comments/feedback, discuss related material, network with peers, and contribute new material.
 
 #### How to make a new request
 - Make a new issue
