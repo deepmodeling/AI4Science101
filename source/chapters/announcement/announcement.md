@@ -25,11 +25,11 @@ Welcome everyone to participate in the discussion about AI4Science in the discus
 
 - Email
 
-Our email address is [ai4science101@deepmodeling.com](ai4science101@deepmodeling.com). If you are interested in sharing your knowledge about any particular aspect of AI for Science (e.g. a common AI tool, practical guidance, an overview of a scientific topic, etc.), we encourage you to send us an email before you start preparing the material. 
+Our email address is [ai4science101@deepmodeling.com](mailto:ai4science101@deepmodeling.com). If you are interested in sharing your knowledge about any particular aspect of AI for Science (e.g. a common AI tool, practical guidance, an overview of a scientific topic, etc.), we encourage you to send us an email before you start preparing the material. 
 
 - Slack group
 
-In addition to our reading documents, you can also join the AI4Science101 [Slack channel](https://aiforscience.slack.com/join/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ#/shared-invite/email) to introduce yourself, drop comments/feedback, discuss related material, network with peers, and contribute new material.
+In addition to our reading documents, you can also join the AI4Science101 Slack channel[https://aiforscience.slack.com/join/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ#/shared-invite/email](https://aiforscience.slack.com/join/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ#/shared-invite/email) to introduce yourself, drop comments/feedback, discuss related material, network with peers, and contribute new material.
 
 #### How to make a new request
 - Make a new issue
