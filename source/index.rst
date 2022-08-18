@@ -18,7 +18,7 @@ First Edition
    chapters/announcement/announcement.md
    chapters/AI_for_scientific_discovery/index
    chapters/scientific_discovery_in_the_era_of_AI/index
-   chapters/MD/index
+   chapters/molecular_dynamics/index
    chapters/knowledge_base/index
 
 

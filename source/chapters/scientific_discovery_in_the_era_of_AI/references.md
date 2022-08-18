@@ -1,4 +1,4 @@
-## Reference
+## References
 
 [1] Wikipedia Contributors. Deep learning, 05 2019.
 

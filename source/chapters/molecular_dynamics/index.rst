@@ -8,10 +8,10 @@ This tutorial aims to equip you with the knowledge about molecular dynamics and 
    :caption: Contents:
 
    preperation.md
-   MD_defination.md
+   MD_definition.md
    simple_example.md
    advanced_example.md
    enhanced_sampling.md
    AI_in_MD.md
-   reference.md
+   references.md
 

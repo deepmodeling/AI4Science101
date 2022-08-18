@@ -23,5 +23,3 @@
   - **Computational cost.** AI models usually consume plenty of computational resources, especially with the growth of the model and data sizes.
 
   - **Explainability.** AI models usually have poor explainability and are thus considered “black-boxes”, though it is an active area of research.
-
-![image](https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/AI_work.jpg)

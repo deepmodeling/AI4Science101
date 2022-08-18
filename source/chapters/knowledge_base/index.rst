@@ -9,5 +9,5 @@ Knowledge Base
    chemistry.md
    biology.md
    pharmacy.md
-   reference.md
+   references.md
 

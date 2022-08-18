@@ -1,8 +1,12 @@
 ## What does AI bring to the scientific Community?
 
-![image](https://dp-public.oss-cn-beijing.aliyuncs.com/community/Scientific%20Discovery%20in%20the%20era%20of%20AI/Protain_S_P.png)
+<center> <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/AI4Science101/20220629-180726.jpg# pic_center width="80%" height="80%"/>  </center>
 
-#### **Traditional Discovery Process in Science (a day of a scientist)**
+<br>
+<center>Figure 3: Scientific discovery process</center>
+<br>
+
+#### Traditional Discovery Process in Science (a day of a scientist)
 
   - Goal - Drug design (AI can help in different phases of drug design)
 
@@ -26,14 +30,14 @@ Lead Optimization | - MD-based free energy calculation with empirical force fiel
 Drug Synthesize   | - Error-prone experiments to find optimal synthesis route and reaction conditions | - Retro-synthesis analysis by AI models <br>- AI predicted reaction outcomes<br>- Automated wet-Lab experiment                 
 ADMET             | - Experiments                                                                     | - AI-based prediction models                                                
 
+<center><span id="tab:addlabel" label="tab:addlabel">Table 1: Examples of AI methods in assisting the drug discovery process</span></center>
+<br>
 
-<span id="tab:addlabel" label="tab:addlabel">\[Table: Examples of AI methods in assisting the drug discovery process\]</span>
-
-#### **Even decades ago, AI was widely used in the scientific community**
+#### Even decades ago, AI was widely used in the scientific community
 
   - Example: principal component analysis/PCA, linear regression, Kalman Filter, clustering algorithms, etc.
 
-#### **Data analysis empowered by modern AI**
+#### Data analysis empowered by modern AI
 
   - **Why has AI become so popular recently? (What changed the game?)**
     
