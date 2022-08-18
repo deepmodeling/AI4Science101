@@ -11,7 +11,7 @@ The project is a part of the DeepModeling community, an open-source community th
 This effort is primarily led by Yuanqi Du (Cornell), Yingze Wang (UCB), Yanze Wang (PKU), Yibo Wang (DP) and contributors Jiayue Wang (DP), Jiameng Huang (PKU), Arian Jamasb (Cambridge), Jihao Long (Princeton), Guiyu Cao (PKU), Zhenfeng Deng (PKU), Xi Chen (DP), Siyuan Zhou (BFSU), Yinkai Wang (Tufts). We also like to express our gratitude to Weinan E (Princeton \& PKU), Linfeng Zhang (DP), Ping Tuo (DP), Zheng Cheng (AISI), Han Wen (DP), Dongdong Wang (DP), Xinming Tu (UW), Nilay Shah (UCLA), Hannes Stark (MIT), Chaitanya Joshi (Cambridge), Ryan-Rhys Griffiths (Cambridge), Sang Truong (Stanford), Junhan Chang (PKU), Chenbing Wang (PKU), Ziming Liu (MIT), Weiliang Luo (PKU), Zhen Wang (DP), Yucheng Zhang (UTokyo), Ferry Hooft (UvA), Ziyao Li (PKU) for providing expertise, feedback and support.
 
 ## Feedback/comment or Join us
-Please reach out to us at [ai4science101@deepmodeling.com](mailto:ai4science101@deepmodeling.com) if you have any feedback or comments.
+Please reach out to us at [ai-for-science101@googlegroups.com](mailto:ai-for-science101@googlegroups.com) if you have any feedback or comments.
 As this is a community effort, we welcome anyone interested to join us. Any kind of volunteer work is welcomed, including writing tutorials, drawing illustrations, etc. Do not hesitate to let us know! 
 
 ## Contribution Guidelines
@@ -25,7 +25,7 @@ Welcome everyone to participate in the discussion about AI4Science in the discus
 
 - Email
 
-Our email address is [ai4science101@deepmodeling.com](mailto:ai4science101@deepmodeling.com). If you are interested in sharing your knowledge about any particular aspect of AI for Science (e.g. a common AI tool, practical guidance, an overview of a scientific topic, etc.), we encourage you to send us an email before you start preparing the material. 
+Our email address is [ai-for-science101@googlegroups.com](mailto:ai-for-science101@googlegroups.com). If you are interested in sharing your knowledge about any particular aspect of AI for Science (e.g. a common AI tool, practical guidance, an overview of a scientific topic, etc.), we encourage you to send us an email before you start preparing the material. 
 
 - Slack group
 
