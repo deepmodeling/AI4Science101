@@ -52,13 +52,13 @@ the deep BSDE method[1]
 Control algorithms are widely used in engineering and industry, which aim to govern the application of system inputs to drive the dynamic system to satisfying specific conditions. Since the time of Bellman [25]
 , a long-lasting problem in control theory is to solve the high dimensional closed-loop control problems, which aims to find the policy function: the input as a function of the state. Indeed, the terminology "curse of dimensionality" was originally coined by Bellman in order to highlight these difficulties. The practical success of deep learning shows that deep neural networks can approximate high dimensional functions and hence raise the hope to solve high dimensional closed-loop control problems. Although this field is still immature and faces many challenges such as stability and robustness of policy function, pioneering works [24,26] show the potential of this field. Another related field is reinforcement learning. Roughly speaking, control algorithms and reinforcement learning problems solve the same problems. However, in contrast, to control algorithms, which make heavy use of the underlying models, reinforcement learning algorithms make minimum use of the model. Comparison and combination of control algorithms and reinforcement learning algorithms are interesting topics and helpful if one wants to deal with complex practical problems. 
 
+- **Reinforcement learning:** Reinforcement learning concerns how an agent takes actions to maximize the long-term reward when faced with an unknown environment. One feature of the reinforcement learning algorithm is that it does not require the exact form of the underlying model. 
+
 <center><img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/figures-AI%20for%20Scientific%20Discover/20220623-162001.png width="40%" height="20%" />
 <img src=https://dp-public.oss-cn-beijing.aliyuncs.com/community/figures-AI%20for%20Scientific%20Discover/fluid_space_vehicle.png width="40%" height="20%" /></center>
 <br>
 <center>Figure 7: Magnitude of vorticity in compressible turbulent mixing layer (left), and hypersonic reentry vehicle in rarefied regime (right).</center>
 <br>    
-
-- **Reinforcement learning:** Reinforcement learning concerns how an agent takes actions to maximize the long-term reward when faced with an unknown environment. One feature of the reinforcement learning algorithm is that it does not require the exact form of the underlying model. 
 
 ### Fluid Mechanics
 Fluid mechanics studies the systems with fluid (liquids, gases, and plasmas) at rest and in motion [27,28,29]. Many scientific and engineering disciplines get involved with fluid mechanics (as shown in Figure above), including astrophysics, oceanography, meteorology, aerospace engineering, chip industry, and physics-based animation. Overall, the fluid mechanics can be roughly divided into inviscid flows vs. viscous flows, laminar flows vs. turbulence, incompressible flows vs. compressible flows, continuum flows vs. rarefied flows, single-phase flows vs. multiphase flows, Newtonian flows vs. non-Newtonian flows, etc.  
